@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KianFrostholm&theme=github_dark" alt="GitHub Stats"/>
   <br>
-  <a href="https://store.loaf-scripts.com/">
-    <img src="https://i.ibb.co/zs3z2fr/logo-text-2.jpg" alt="Webstore" height="75"/>
+  <a href="https://unknownrp.dk/">
+    <img src="https://cdn.discordapp.com/attachments/899082911951765514/1024632349150945320/unknownlogo.png" alt="Webstore" height="75"/>
   </a>
-  <a href="https://discord.com/invite/4dUvf34">
+  <a href="[https://discord.com/invite/4dUvf34](https://discord.gg/8s5ZJ649tZ)">
     <img src="https://i.ibb.co/Rg03rFf/discord.png" alt="Discord server" height="75"/>
   </a>
   <a href="https://www.youtube.com/channel/UCop4LbZWXDq3miZcx6wITJw">
